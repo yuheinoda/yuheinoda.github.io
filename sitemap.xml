@@ -3,22 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yuheinoda.github.io/posts/</loc>
+    <lastmod>2021-02-04T16:43:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuheinoda.github.io/posts/second/</loc>
+    <lastmod>2021-02-04T16:43:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuheinoda.github.io/tags/</loc>
+    <lastmod>2021-02-04T16:43:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuheinoda.github.io/tags/untagged/</loc>
+    <lastmod>2021-02-04T16:43:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuheinoda.github.io/posts/first/</loc>
+    <lastmod>2021-02-04T16:31:46+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yuheinoda.github.io/tags/demo/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://yuheinoda.github.io/tags/image/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuheinoda.github.io/posts/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuheinoda.github.io/tags/</loc>
     <lastmod>2018-12-24T12:29:41+08:00</lastmod>
   </url>
   

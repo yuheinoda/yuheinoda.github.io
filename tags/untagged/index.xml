@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Hugo Hermit</title>
+    <link>https://yuheinoda.github.io/tags/untagged/</link>
+    <description>Recent content in untagged on Hugo Hermit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-ja</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 04 Feb 2021 16:43:27 +0900</lastBuildDate>
+    
+	<atom:link href="https://yuheinoda.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second</title>
+      <link>https://yuheinoda.github.io/posts/second/</link>
+      <pubDate>Thu, 04 Feb 2021 16:43:27 +0900</pubDate>
+      
+      <guid>https://yuheinoda.github.io/posts/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://yuheinoda.github.io/posts/first/</link>
+      <pubDate>Thu, 04 Feb 2021 16:31:46 +0900</pubDate>
+      
+      <guid>https://yuheinoda.github.io/posts/first/</guid>
+      <description>asdfghjk</description>
+    </item>
+    
+  </channel>
+</rss>
